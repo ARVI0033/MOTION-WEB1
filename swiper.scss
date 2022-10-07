@@ -1,0 +1,116 @@
+@import "reset";
+
+#swiperi {
+  background: #222222;
+  min-height: 100vh;
+
+  .swiperi {
+    padding-bottom: 60px;
+
+    &--lenovo {
+      margin-top: -3px;
+      width: 200px;
+    }
+
+
+    &--wrapper {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      padding-top: 127px;
+    }
+
+
+
+    &--btnl {
+      display: flex;
+      width: 300px;
+      height: 50px;
+      background: transparent;
+      border-radius: 10px;
+      border: none;
+      justify-content: space-evenly;
+      align-items: center;
+      font-size: 28px;
+      color: #fa0909;
+
+      &:hover {
+        color: #FFFFFF;
+      }
+
+      &--cloth2 {
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 42px;
+        color: #FF001E;
+        margin-left: -15px;
+        padding-top: -6px;
+        &:hover {
+          color: #FFFFFF;
+        }
+      }
+
+      &--icon {
+        margin: -6px 10px;
+        color: #f30808;
+      }
+    }
+
+
+    &--nineteen {
+      width: 200px;
+      height: 330px;
+      background: #F5F7F9;
+      margin-bottom: 20px;
+    }
+
+    &--nineteen2 {
+      width: 200px;
+      height: 330px;
+      background: #F5F7F9;
+      margin-bottom: 20px;
+    }
+
+    &--nineteen3 {
+      width: 200px;
+      height: 330px;
+      background: #F5F7F9;
+      margin-bottom: 20px;
+    }
+
+    &--nineteen4 {
+      width: 200px;
+      height: 330px;
+      background: #F5F7F9;
+      margin-bottom: 20px;
+    }
+
+    &--nineteen5 {
+      width: 200px;
+      height: 330px;
+      background: #F5F7F9;
+      margin-bottom: 20px;
+    }
+
+
+    &--difficult {
+      font-weight: 700;
+      font-size: 12px;
+      line-height: 18px;
+      color: #000000;
+      margin-left: 10px;
+      padding-top: 10px;
+      margin-bottom: 11px;
+    }
+
+    &--keninel {
+      font-weight: 500;
+      font-size: 12px;
+      color: #3D3D3D;
+      margin-left: 10px;
+    }
+
+  }
+}
+

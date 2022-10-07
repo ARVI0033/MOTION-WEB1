@@ -1,0 +1,1172 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+  #hero {
+    min-height: 51vh;
+  }
+  .swiper {
+    margin-left: -26px;
+  }
+  #game .game--yellow {
+    margin: 62px 0 0 -3px;
+  }
+  #swiperi .swiperi--wrapper {
+    padding-top: 127px;
+  }
+  #swiperi .swiperi--btnl--cloth2 {
+    padding-top: -10px;
+  }
+  #swiperi .swiperi--btnl {
+    margin-left: 490px;
+    padding-top: 88px;
+  }
+  #hero2 {
+    min-height: 41vh;
+  }
+}
+@media (max-width: 1200px) {
+  .container {
+    width: 90%;
+  }
+  .navbar {
+    flex-direction: column;
+  }
+  #hero {
+    min-height: 66vh;
+  }
+  #see .see--btn {
+    margin-left: 20px;
+  }
+  #rio .rio--mino {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  #rio .rio--mino__vino {
+    margin-top: 55px;
+  }
+  #arvi .arvi--block {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  #arvi .arvi--zet {
+    margin-top: 55px;
+  }
+  #game .game--hat {
+    flex-direction: column;
+  }
+  #game .game__mess {
+    margin-bottom: 37px;
+  }
+  #game .game--hint {
+    flex-direction: column-reverse;
+  }
+  #game .game--zoo {
+    margin-bottom: 41px;
+  }
+  #game .game--yellow {
+    width: 1014px;
+    height: 373px;
+  }
+  #dirty .dirty .swiper {
+    width: 1125px;
+  }
+  #swiperi .swiperi--btnl {
+    margin-left: 380px;
+  }
+  #hero2 {
+    min-height: 51vh;
+  }
+  #morning .morning--block--titlic {
+    margin: 51px 0;
+  }
+  #morning .morning--block--titlic2 {
+    margin: 51px 38px;
+  }
+  #morning .morning--block--titlic3 {
+    margin: 51px 0;
+  }
+}
+@media (max-width: 1024px) {
+  .container {
+    width: 90%;
+  }
+  #hero {
+    min-height: 68vh;
+  }
+  #hero .hero--title {
+    font-size: 105px;
+  }
+  #game .game--yellow {
+    width: 870px;
+    height: 397px;
+    margin-left: 36px;
+  }
+  #game .game--center {
+    text-align: center;
+  }
+  #game .game--show {
+    justify-content: center;
+  }
+  #game .game--visit {
+    justify-content: center;
+  }
+  #dirty .dirty--cloth {
+    display: none;
+  }
+  #dirty .dirty--studio {
+    display: none;
+  }
+  #dirty .dirty--btnl {
+    display: flex;
+    margin-left: 326px;
+  }
+  #dirty .dirty {
+    padding-top: 66px;
+    padding-bottom: 60px;
+  }
+  #dirty .dirty--tubec {
+    display: block;
+  }
+  #town .town--baby {
+    flex-direction: column;
+  }
+  #town .town--baby--voice1 {
+    display: flex;
+    margin-left: 58px;
+  }
+  #town .town--baby--voice1__sacer {
+    margin: 0 27px;
+  }
+  #town .town--baby--worker {
+    padding-top: 49px;
+  }
+  #dirty .dirty--silver {
+    align-items: center;
+    flex-direction: column;
+  }
+  #dirty .dirty--tigress {
+    text-align: center;
+    margin-bottom: 57px;
+  }
+  #essay .essay--inilk2 {
+    margin-left: -14px;
+  }
+  #essay .essay--inilk3 {
+    margin-left: -35px;
+  }
+  #swiperi .swiperi--btnl {
+    margin-left: 293px;
+    padding-top: 88px;
+  }
+  #hero2 {
+    min-height: 61vh;
+  }
+  #morning .morning--block--titlic--bter {
+    margin: 35px 0 0 17px;
+  }
+  #morning .morning--block--titlic2--bter2 {
+    margin: 35px 0 0 17px;
+  }
+  #morning .morning--block--titlic3--bter3 {
+    margin: 35px 0 0 17px;
+  }
+  #morning .morning--together--jerco {
+    flex-wrap: wrap;
+  }
+  #morning .morning--together--jerco__rait {
+    margin-bottom: 34px;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    width: 90%;
+  }
+  #vinoc .vinoc--jim {
+    justify-content: space-between;
+  }
+  #morning .morning--block--titlic--bter {
+    margin: 35px 0 0 11px;
+  }
+  #morning .morning--block--titlic2--bter2 {
+    margin: 35px 0 0 11px;
+  }
+  #morning .morning--block--titlic3--bter3 {
+    margin: 35px 0 0 11px;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+  #header .navbar--nav {
+    padding-top: 7px;
+  }
+  #header .navbar--nav__btn {
+    margin: 12px 0 0 248px;
+  }
+  #hero .hero--title {
+    font-size: 57px;
+  }
+  #game .game--yellow {
+    width: 705px;
+    height: 397px;
+    margin-left: -9px;
+  }
+  #essay .essay {
+    flex-direction: column;
+  }
+  #essay .essay--btn {
+    margin-left: 85px;
+  }
+  #essay .essay--turkey {
+    margin-left: 95px;
+  }
+  #essay .essay--housent {
+    margin-left: 97px;
+  }
+  #essay .essay--inilk2 {
+    margin-left: -76px;
+  }
+  #essay .essay--inilk3 {
+    margin-left: -81px;
+  }
+  #dirty .dirty--btnl {
+    display: flex;
+    margin-left: 219px;
+  }
+  #swiperi .swiperi--btnl {
+    margin-left: 190px;
+  }
+  #hero2 .hero2--title {
+    font-size: 58px;
+  }
+  #hero2 {
+    min-height: 77vh;
+  }
+  #vinoc .vinoc--jim {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  #vinoc .vinoc--jim--keri {
+    margin-bottom: 23px;
+  }
+  #atfer .atfer--cino {
+    flex-direction: column-reverse;
+  }
+  #atfer .atfer--cino__title {
+    margin-left: 17px;
+    text-align: center;
+  }
+  #atfer .atfer--cino__itmg {
+    text-align: center;
+  }
+  #morning .morning--block {
+    flex-wrap: wrap;
+  }
+  #morning .morning--block--titlic--bter {
+    margin: 35px 0 0 25px;
+  }
+  #morning .morning--block--titlic2--bter2 {
+    margin: 35px 0 0 25px;
+  }
+  #morning .morning--block--titlic3--bter3 {
+    margin: 35px 0 0 25px;
+  }
+  #dirty2 .dirty2--silver2 {
+    flex-direction: column;
+  }
+  #dirty2 .dirty2--tigress2 {
+    text-align: center;
+    margin-bottom: 33px;
+  }
+  #dirty2 .dirty2--six {
+    margin-left: 10px;
+  }
+}
+@media (max-width: 576px) {
+  .container {
+    width: 90%;
+  }
+  #header .navbar--nav {
+    display: none;
+  }
+  #header .navbar {
+    margin-left: -360px;
+  }
+  #hero {
+    min-height: 74vh;
+    padding-top: 203px;
+  }
+  #hero .hero--item {
+    padding-bottom: 36px;
+  }
+  #hero .hero--group {
+    flex-direction: column;
+    margin-left: -125px;
+  }
+  #hero .hero--linc {
+    margin: 28px 0 0 447px;
+  }
+  #see .see {
+    flex-direction: column;
+  }
+  #see .see--btn {
+    margin-bottom: 25px;
+  }
+  #game .game--tram {
+    width: 538px;
+    height: 446px;
+  }
+  #game .game--yell {
+    margin-left: -3px;
+    text-align: center;
+  }
+  #game .game--basket {
+    margin-left: 45px;
+  }
+  #game .game--complex {
+    margin-left: 45px;
+  }
+  #game .game--help {
+    margin: 28px 0 0 217px;
+  }
+  #game .game--hotel {
+    width: 556px;
+    height: 555px;
+  }
+  #game .game--good {
+    margin-left: 2px;
+    text-align: center;
+  }
+  #game .game--sofa {
+    margin-left: 25px;
+    width: 503px;
+    height: 291px;
+  }
+  #game .game--tax {
+    width: 505px;
+    height: 50px;
+  }
+  #game .game--book {
+    width: 394px;
+  }
+  #game .game--thing {
+    margin: 94px 0 0 236px;
+  }
+  #game .game--yellow {
+    width: 544px;
+    height: 449px;
+    margin-left: -9px;
+  }
+  #game .game--ask {
+    font-size: 33px;
+    padding-top: 27px;
+  }
+  #game .game--center {
+    margin-left: -2px;
+  }
+  #game .game--show {
+    margin-left: -37px;
+  }
+  #game .game--visit {
+    margin-left: -13px;
+  }
+  #milk .milk {
+    flex-direction: column;
+  }
+  #town .town--baby--voice1 {
+    margin-left: -16px;
+  }
+  #dirty .dirty--six {
+    width: 511px;
+    height: 400px;
+  }
+  #dirty .dirty--six input {
+    width: 449px;
+  }
+  #dirty .dirty--btn {
+    width: 457px;
+  }
+  #essay .essay--inilk2 {
+    margin-left: -9px;
+  }
+  #essay .essay--inilk3 {
+    margin-left: -31px;
+  }
+  #dirty .dirty--btnl {
+    margin-left: 125px;
+  }
+  #swiperi .swiperi--btnl {
+    margin-left: 105px;
+  }
+  #hero2 .hero2--title {
+    font-size: 53px;
+  }
+  #hero2 {
+    min-height: 95vh;
+  }
+  #atfer .atfer--cino--btn {
+    margin-left: 102px;
+  }
+  #atfer .atfer--cino--btm {
+    margin-left: 156px;
+  }
+  #morning .morning--elin {
+    text-align: center;
+  }
+  #morning .morning--pori {
+    margin-left: 71px;
+  }
+  #morning .morning--together--ficow {
+    text-align: center;
+  }
+  #dirty2 .dirty2--purple {
+    margin-left: 103px;
+  }
+  #dirty2 .dirty2--six {
+    margin-left: -31px;
+  }
+  #dirty2 .dirty2--six {
+    width: 538px;
+  }
+  #dirty2 .dirty2--advise input {
+    width: 200px;
+  }
+  #dirty2 .dirty2--six input {
+    width: 475px;
+  }
+  #dirty2 .dirty2--btn {
+    width: 482px;
+  }
+  #essay2 .essay2 {
+    flex-direction: column;
+  }
+  #essay2 .essay2--btn {
+    margin-left: 44px;
+  }
+  #essay2 .essay2--printer {
+    margin-left: -11px;
+  }
+  #header .hamburger-menu {
+    display: block;
+  }
+  #header .navbar .menu__btn {
+    top: 24px;
+    right: 91px;
+  }
+}
+@media (max-width: 450px) {
+  .container {
+    width: 90%;
+  }
+  #header .navbar {
+    margin-left: -239px;
+  }
+  #hero .hero--group__description {
+    margin-left: 122px;
+  }
+  #hero .hero--linc {
+    margin: 28px 0 0 340px;
+  }
+  #game .game__mess {
+    width: 440px;
+    height: 451px;
+  }
+  #game .game--kettle {
+    margin-left: 41px;
+  }
+  #game .game--tram {
+    width: 434px;
+    height: 489px;
+  }
+  #game .game--basket {
+    margin-left: -5px;
+  }
+  #game .game--complex {
+    margin-left: -5px;
+  }
+  #game .game--help {
+    margin: 28px 0 0 163px;
+  }
+  #game .game--zoo {
+    width: 431px;
+  }
+  #game .game--male {
+    text-align: center;
+    margin-left: 1px;
+  }
+  #game .game--match {
+    margin: 28px 0 0 15px;
+  }
+  #game .game--hotel {
+    width: 434px;
+  }
+  #game .game--sofa {
+    width: 385px;
+    height: 291px;
+  }
+  #game .game--tax {
+    width: 386px;
+  }
+  #game .game--book {
+    width: 287px;
+  }
+  #game .game--thing {
+    margin: 80px 0 0 130px;
+  }
+  #game .game--yellow {
+    width: 426px;
+    height: 519px;
+  }
+  #game .game--center {
+    font-size: 13px;
+  }
+  #town .town--baby--voice1 {
+    flex-direction: column;
+  }
+  #town .town--baby--voice1__sacer {
+    margin-bottom: 21px;
+  }
+  #dirty .dirty--six {
+    width: 387px;
+    height: 572px;
+  }
+  #dirty .dirty--advise {
+    flex-direction: column;
+  }
+  #dirty .dirty--advise input {
+    width: 280px;
+    margin-bottom: 15px;
+  }
+  #dirty .dirty--six input {
+    width: 337px;
+  }
+  #dirty .dirty--purple {
+    margin-bottom: 58px;
+  }
+  #dirty .dirty--btn {
+    width: 348px;
+  }
+  #essay .essay--chemis {
+    font-size: 43px;
+  }
+  #essay .essay--printer {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+  #essay .essay--inilk2 {
+    margin-left: 7px;
+  }
+  #essay .essay--inilk3 {
+    margin-left: 1px;
+  }
+  #dirty .dirty--btnl {
+    margin-left: 59px;
+  }
+  #swiperi .swiperi--btnl {
+    margin-left: 66px;
+  }
+  #hero2 .hero2--title {
+    font-size: 39px;
+  }
+  #hero2 {
+    min-height: 77vh;
+  }
+  #atfer .atfer--cino--btn {
+    margin-left: 58px;
+  }
+  #atfer .atfer--cino--btm {
+    margin-left: 106px;
+  }
+  #morning .morning--together--payli {
+    margin-left: 24px;
+  }
+  #dirty2 .dirty2--purple {
+    margin-left: 60px;
+    font-size: 26px;
+  }
+  #dirty2 .dirty2--six {
+    width: 418px;
+    height: 433px;
+  }
+  #dirty2 .dirty2--six input {
+    width: 389px;
+    padding-left: 10px;
+    margin: 1px 8px;
+  }
+  #dirty2 .dirty2--btn {
+    width: 394px;
+    margin-left: 15px;
+  }
+  #essay2 .essay2--chemis {
+    font-size: 42px;
+  }
+}
+@media (max-width: 425px) {
+  .container {
+    width: 90%;
+  }
+  #hero .hero--title {
+    font-size: 54px;
+  }
+  #hero .hero--btn {
+    width: 269px;
+  }
+  #hero {
+    min-height: 78vh;
+  }
+  #hero .hero--group__description {
+    font-size: 12px;
+    margin-left: 78px;
+  }
+  #hero .hero--linc {
+    margin: 39px 0 0 293px;
+  }
+  #rio .rio--mino__vino {
+    width: 90%;
+  }
+  #arvi .arvi--tool {
+    width: 383px;
+  }
+  #arvi .arvi--test--btn {
+    width: 384px;
+    height: 78px;
+  }
+  #game .game__mess {
+    width: 425px;
+    height: 457px;
+    border-radius: 1px;
+  }
+  #game .game--tram {
+    width: 425px;
+    height: 494px;
+    border-radius: 1px;
+  }
+  #game .game--zoo {
+    width: 425px;
+    border-radius: 1px;
+  }
+  #game .game--match {
+    margin: 28px 0 0 11px;
+  }
+  #game .game--good {
+    margin-bottom: 43px;
+  }
+  #game .game--hotel {
+    width: 425px;
+    border-radius: 1px;
+  }
+  #game .game--yellow {
+    margin-left: -22px;
+    border-radius: 1px;
+  }
+  #dirty .dirty--six {
+    width: 385px;
+    height: 572px;
+  }
+  #essay .essay--chemis {
+    font-size: 40px;
+  }
+  #essay .essay--btn {
+    margin-left: 49px;
+  }
+  #essay .essay--turkey {
+    margin-left: 61px;
+  }
+  #essay .essay--housent {
+    margin-left: 59px;
+  }
+  #swiperi .swiperi--btnl--cloth2 {
+    padding-top: 1px;
+  }
+  #swiperi .swiperi--wrapper {
+    margin-left: 91px;
+  }
+  #swiperi .swiperi--nineteen {
+    margin-bottom: 41px;
+  }
+  #swiperi .swiperi--nineteen2 {
+    margin-bottom: 41px;
+  }
+  #swiperi .swiperi--nineteen3 {
+    margin-bottom: 41px;
+  }
+  #swiperi .swiperi--nineteen4 {
+    margin-bottom: 41px;
+  }
+  #swiperi .swiperi--nineteen5 {
+    margin-bottom: 41px;
+  }
+  #hero2 .hero2--group__description {
+    font-size: 13px;
+  }
+  #hero2 {
+    min-height: 93vh;
+  }
+  #dirty2 .dirty2--six {
+    width: 395px;
+    border-radius: 1px;
+  }
+  #dirty2 .dirty2--six input {
+    width: 369px;
+  }
+  #dirty2 .dirty2--btn {
+    width: 373px;
+  }
+  #essay2 .essay2--chemis {
+    font-size: 40px;
+  }
+}
+@media (max-width: 380px) {
+  .container {
+    width: 90%;
+  }
+  #header .navbar {
+    margin-left: -171px;
+  }
+  #hero .hero--group__description {
+    margin-left: 129px;
+  }
+  #hero .hero--linc {
+    margin: 28px 0 0 260px;
+  }
+  #hero {
+    min-height: 84vh;
+  }
+  #see .see {
+    margin-left: -18px;
+  }
+  #arvi .arvi--tool {
+    width: 343px;
+  }
+  #game .game--cake {
+    padding-top: 45px;
+  }
+  #arvi .arvi--test--btn {
+    width: 343px;
+  }
+  #game .game__mess {
+    width: 380px;
+    height: 527px;
+  }
+  #game .game--kettle {
+    font-size: 14px;
+  }
+  #game .game--risk {
+    margin-left: 25px;
+  }
+  #game .game--sun1 {
+    margin-left: 34px;
+  }
+  #game .game--sun2 {
+    margin-left: 34px;
+  }
+  #game .game--sun3 {
+    margin-left: 34px;
+  }
+  #game .game--sun4 {
+    width: 328px;
+    margin-left: 34px;
+  }
+  #game .game--yak {
+    padding-top: 26px;
+  }
+  #game .game--tram {
+    width: 380px;
+    height: 511px;
+  }
+  #game .game--help {
+    margin: 28px 0 0 124px;
+  }
+  #game .game--zoo {
+    width: 380px;
+    height: 491px;
+  }
+  #game .game--balk {
+    padding-top: 31px;
+  }
+  #game .game--match {
+    width: 353px;
+    margin: 33px 0 0 10px;
+  }
+  #game .game--fly {
+    width: 330.72px;
+  }
+  #game .game--chip9 {
+    width: 0;
+  }
+  #game .game--hotel {
+    width: 380px;
+  }
+  #game .game--sofa {
+    width: 330px;
+    height: 291px;
+  }
+  #game .game--tax {
+    width: 332px;
+  }
+  #game .game--ring {
+    padding-top: 67px;
+    margin-left: 27px;
+  }
+  #game .game--room {
+    font-size: 16px;
+  }
+  #game .game--yellow {
+    width: 383px;
+    height: 519px;
+  }
+  #game .game--visit {
+    margin-left: -47px;
+  }
+  #town .town--baby--worker {
+    margin-left: 47px;
+  }
+  #dirty .dirty--purple {
+    margin-bottom: 47px;
+    margin-left: 19px;
+  }
+  #dirty .dirty--six {
+    width: 338px;
+    height: 597px;
+  }
+  #dirty .dirty--six input {
+    width: 337px;
+    margin: 17px 0 0 -9px;
+  }
+  #dirty .dirty--btn {
+    width: 355px;
+    margin-left: -5px;
+  }
+  #essay .essay--chemis {
+    font-size: 36px;
+  }
+  #essay .essay--btn {
+    margin-left: 22px;
+  }
+  #essay .essay--turkey {
+    margin-left: 25px;
+  }
+  #essay .essay--housent {
+    margin-left: 32px;
+  }
+  #dirty .dirty--btnl {
+    margin-left: 37px;
+  }
+  #swiperi .swiperi--btnl {
+    margin-left: 21px;
+  }
+  #swiperi .swiperi--wrapper {
+    margin-left: 74px;
+  }
+  #hero2 .hero2--title {
+    font-size: 33px;
+  }
+  #hero2 .hero2--group__description {
+    font-size: 12px;
+    margin-bottom: 46px;
+  }
+  #hero2 {
+    min-height: 79vh;
+  }
+  #atfer .atfer--cino--btn {
+    margin-left: 16px;
+  }
+  #atfer .atfer--cino--btm {
+    margin-left: 68px;
+  }
+  #dirty2 .dirty2--six {
+    width: 352px;
+    height: 623px;
+  }
+  #dirty2 .dirty2--advise {
+    margin-bottom: 19px;
+    flex-direction: column;
+  }
+  #dirty2 .dirty2--six input {
+    width: 342px;
+    padding-left: 2px;
+    margin-bottom: 21px;
+  }
+  #dirty2 .dirty2--btn {
+    width: 329px;
+  }
+  #essay2 .essay2--chemis {
+    font-size: 36px;
+  }
+  #essay2 .essay2--btn {
+    margin-left: 9px;
+  }
+}
+@media (max-width: 370px) {
+  .container {
+    width: 90%;
+  }
+  #hero .hero--group__description {
+    font-size: 11px;
+    margin-left: 102px;
+  }
+  #arvi .arvi--test--btn {
+    width: 337px;
+  }
+  #game .game__mess {
+    width: 370px;
+    height: 527px;
+  }
+  #game .game--tram {
+    width: 370px;
+    height: 522px;
+  }
+  #game .game--zoo {
+    width: 370px;
+    height: 509px;
+  }
+  #game .game--match {
+    margin: 33px 0 0 7px;
+  }
+  #game .game--hotel {
+    width: 370px;
+  }
+  #game .game--yellow {
+    width: 373px;
+    height: 519px;
+  }
+  #game .game--center {
+    font-size: 15px;
+  }
+  #dirty .dirty--six {
+    width: 330px;
+  }
+  #dirty .dirty--six input {
+    margin: 17px 0 0 -15px;
+  }
+  #dirty .dirty--btn {
+    width: 341px;
+  }
+  #essay .essay--chemis {
+    margin-left: 1px;
+    text-align: center;
+  }
+  #hero2 .hero2--title {
+    font-size: 32px;
+  }
+  #hero2 .hero2--group__description {
+    font-size: 11px;
+    margin-bottom: 35px;
+  }
+  #dirty2 .dirty2--purple {
+    margin-left: 38px;
+    font-size: 23px;
+  }
+  #dirty2 .dirty2--six {
+    width: 342px;
+  }
+  #hero2 .hero2--btoonli {
+    flex-direction: column;
+  }
+  #dirty2 .dirty2--six input {
+    padding-left: 0;
+  }
+}
+@media (max-width: 320px) {
+  .container {
+    width: 90%;
+  }
+  #header .navbar {
+    margin-left: -122px;
+  }
+  #hero .hero--group__description {
+    font-size: 11px;
+    margin-left: 126px;
+  }
+  #hero .hero--linc {
+    margin: 28px 0 0 122px;
+  }
+  #hero {
+    min-height: 88vh;
+  }
+  #arvi .arvi--tool {
+    width: 292px;
+  }
+  #arvi .arvi--zet {
+    height: 408px;
+  }
+  #arvi .arvi--item {
+    font-size: 15px;
+  }
+  #arvi .arvi--cup__plan {
+    margin-left: 28px;
+  }
+  #arvi .arvi--test--btn {
+    width: 290px;
+  }
+  #game .game__mess {
+    width: 320px;
+  }
+  #game .game--kettle {
+    font-size: 11px;
+    margin-left: 31px;
+  }
+  #game .game--lake {
+    margin-left: -27px;
+  }
+  #game .game--lake2 {
+    margin-left: -26px;
+  }
+  #game .game--sun1 {
+    width: 191px;
+  }
+  #game .game--sun2 {
+    width: 249px;
+  }
+  #game .game--sun3 {
+    width: 231px;
+  }
+  #game .game--sun4 {
+    width: 276px;
+  }
+  #game .game--tram {
+    width: 320px;
+    height: 535px;
+  }
+  #game .game--basket {
+    margin-left: -25px;
+  }
+  #game .game--complex {
+    margin-left: -24px;
+  }
+  #game .game--help {
+    margin: 28px 0 0 85px;
+  }
+  #game .game--zoo {
+    width: 320px;
+    height: 509px;
+  }
+  #game .game--male {
+    font-size: 13px;
+  }
+  #game .game--wall {
+    margin-left: -21px;
+  }
+  #game .game--bench {
+    margin-left: -23px;
+  }
+  #game .game--match {
+    width: 302px;
+  }
+  #game .game--fly {
+    width: 278.72px;
+  }
+  #game .game--hotel {
+    width: 320px;
+  }
+  #game .game--sofa {
+    width: 277px;
+    height: 291px;
+  }
+  #game .game--tax {
+    width: 278px;
+  }
+  #game .game--book {
+    width: 228px;
+  }
+  #game .game--thing {
+    margin: 80px 0 0 65px;
+  }
+  #game .game--yellow {
+    width: 326px;
+    height: 519px;
+  }
+  #game .game--center {
+    margin-left: 4px;
+  }
+  #game .game--show {
+    margin-left: 6px;
+  }
+  #game .game--visit--farm {
+    margin-left: 13px;
+  }
+  #game .game--visit {
+    margin-left: -20px;
+  }
+  #town .town--baby--worker {
+    margin-left: 26px;
+  }
+  #dirty .dirty--six {
+    width: 279px;
+    height: 621px;
+  }
+  #dirty .dirty--six input {
+    width: 272px;
+  }
+  #dirty .dirty--btn {
+    width: 281px;
+  }
+  #essay .essay--btn {
+    margin-left: 4px;
+  }
+  #essay .essay--turkey {
+    font-size: 17px;
+  }
+  #dirty .dirty--btnl {
+    margin-left: -4px;
+  }
+  #swiperi .swiperi--btnl {
+    margin-left: -6px;
+  }
+  #swiperi .swiperi--wrapper {
+    margin-left: 47px;
+  }
+  #hero2 .hero2--title {
+    font-size: 26px;
+  }
+  #hero2 .hero2--btn {
+    width: 227px;
+  }
+  #hero2 .hero2--btm {
+    margin-left: 2px;
+  }
+  #hero2 {
+    min-height: 95vh;
+  }
+  #atfer .atfer--cino--btn {
+    margin-left: 33px;
+    width: 231px;
+  }
+  #atfer .atfer--cino--btm {
+    margin-left: 48px;
+  }
+  #morning .morning--pori {
+    margin-left: -10px;
+    text-align: center;
+  }
+  #dirty2 .dirty2--purple {
+    margin-left: 20px;
+    font-size: 23px;
+  }
+  #dirty2 .dirty2--six {
+    width: 294px;
+    height: 648px;
+  }
+  #dirty2 .dirty2--six input {
+    width: 302px;
+  }
+  #dirty2 .dirty2--six input {
+    width: 280px;
+  }
+  #dirty2 .dirty2--btn {
+    width: 275px;
+  }
+  #essay2 .essay2--chemis {
+    font-size: 29px;
+  }
+  #essay2 .essay2--btn {
+    width: 252px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
